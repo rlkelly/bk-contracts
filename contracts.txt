@@ -1,0 +1,17 @@
+
+token was deployed to 0xc3aA6F6eC9164200Ab9cF7212f4300bCB1EeFE38
+odds oracle was deployed to 0x28672056D7e822E2f5f8BDBE1e1bE42712219409
+score oracle was deployed to 0xc09Eea39D262cc1A9A30436568EEC56a2c84741e
+bookie was deployed to 0x08A9BA9891727Cf5dED6fe5E2B3E222173D9d355
+nftimage was deployed to 0x63bae804acbf8F0C1B6b45849BC117285aE73c63
+
+# new bookie: 0xfE01784984A0304c5Ad98A8cfB8011C7b2Fb77aC
+# new bookie: 0x266b40381a64C67900ED369c8f476e3608Fd4920
+# new bookie: 0xC02A6CFaAE272d838b4317289de925374F210964
+
+new bookie: 0x7661d390e81bb9017c6a01CfBe6A5e517D347689
+///////////////
+
+odds oracle was deployed to 0xbDA2500294F44ac6fDca1003D546325E4ffEFcB2
+score oracle was deployed to 0xc38Cd48A89EdD2eE4B85f325A88Fc97EE118F967
+bookie was deployed to 0x4BcEac0F68d948107200b6C8B71aBe975c508eB8
